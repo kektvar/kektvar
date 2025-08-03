@@ -1,19 +1,19 @@
-kektvar / kektvarr
-—————————
-Bio: 
-    • 15 y.o.
-    • Python, SQL dev
-    • Learning: html
-    • Next: css, JavaScript
-—————————
-Socials:
-    • Telegram: @kektvarr
-    • Email: dekorativnoerastenie@gmail.com
-—————————
-Fav games:
-    Dota 2, katana zero, ultrakill,  
-    geometry dash, no man’s sky,
-    terraria, deadlock, subnautica,
-    portal 2, clash royale, VotV
-—————————
+kektvar / kektvarr<br/>
+—————————<br/>
+Bio: <br/>
+    • 15 y.o.<br/>
+    • Python, SQL dev<br/>
+    • Learning: html<br/>
+    • Next: css, JavaScript<br/>
+—————————<br/>
+Socials:<br/>
+    • Telegram: @kektvarr<br/>
+    • Email: dekorativnoerastenie@gmail.com<br/>
+—————————<br/>
+Fav games:<br/>
+    Dota 2, katana zero, ultrakill,  <br/>
+    geometry dash, no man’s sky,<br/>
+    terraria, deadlock, subnautica,<br/>
+    portal 2, clash royale, VotV<br/>
+—————————<br/>
 :)
