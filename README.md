@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**kektvar/kektvar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+kektvar / kektvarr
+—————————
+Bio: 
+    • 15 y.o.
+    • Python, SQL dev
+    • Learning: html
+    • Next: css, JavaScript
+—————————
+Socials:
+    • Telegram: @kektvarr
+    • Email: dekorativnoerastenie@gmail.com
+—————————
+Fav games:
+    Dota 2, katana zero, ultrakill,  
+    geometry dash, no man’s sky,
+    terraria, deadlock, subnautica,
+    portal 2, clash royale, VotV
+—————————
+:)
