@@ -1,20 +1,17 @@
-kektvar / kektvarr<br/>
-—————————<br/>
-Bio: <br/>
-    • 15 y.o.<br/>
-    • Python, SQL dev<br/>
-    • Learning: html<br/>
-    • Next: css, JavaScript<br/>
-—————————<br/>
-Socials:<br/>
-    • Telegram: @kektvarr<br/>
-    • Email: dekorativnoerastenie@gmail.com<br/>
-    • Discord: kektvarr<br/>
-—————————<br/>
-Fav games:<br/>
-    Dota 2, katana zero, ultrakill,  <br/>
-    geometry dash, no man’s sky,<br/>
-    terraria, deadlock, subnautica,<br/>
-    portal 2, clash royale, VotV<br/>
-—————————<br/>
-:)
+## Info
+
+15 y.o.<br/>
+    
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dekorativnoerastenie@gmail.com) 
+Telegram: https://t.me/kektvarinfo
+Discord: kektvarr
+
+# 💻 Tech Stack:
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
