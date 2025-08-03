@@ -1,10 +1,11 @@
 ## Info
 
 15 y.o.<br/>
-    
+Python, SQL dev
+
 ## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dekorativnoerastenie@gmail.com) 
-Telegram: https://t.me/kektvarinfo
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:dekorativnoerastenie@gmail.com) <br/>
+Telegram: https://t.me/kektvarinfo<br/>
 Discord: kektvarr
 
 # 💻 Tech Stack:
