@@ -9,6 +9,7 @@ Bio: <br/>
 Socials:<br/>
     • Telegram: @kektvarr<br/>
     • Email: dekorativnoerastenie@gmail.com<br/>
+    • Discord: kektvarr<br/>
 —————————<br/>
 Fav games:<br/>
     Dota 2, katana zero, ultrakill,  <br/>
